@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\iris recinos\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\iris recinos\\.nuget\\packages"
+    ]
+  }
+}
