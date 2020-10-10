@@ -1,0 +1,13 @@
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\AppUnoEjercicioPractico\AppUnoEjercicioPractico\bin\Debug\netcoreapp3.1\AppUnoEjercicioPractico.exe
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\AppUnoEjercicioPractico\AppUnoEjercicioPractico\bin\Debug\netcoreapp3.1\AppUnoEjercicioPractico.deps.json
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\AppUnoEjercicioPractico\AppUnoEjercicioPractico\bin\Debug\netcoreapp3.1\AppUnoEjercicioPractico.runtimeconfig.json
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\AppUnoEjercicioPractico\AppUnoEjercicioPractico\bin\Debug\netcoreapp3.1\AppUnoEjercicioPractico.runtimeconfig.dev.json
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\AppUnoEjercicioPractico\AppUnoEjercicioPractico\bin\Debug\netcoreapp3.1\AppUnoEjercicioPractico.dll
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\AppUnoEjercicioPractico\AppUnoEjercicioPractico\bin\Debug\netcoreapp3.1\AppUnoEjercicioPractico.pdb
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\AppUnoEjercicioPractico\AppUnoEjercicioPractico\obj\Debug\netcoreapp3.1\AppUnoEjercicioPractico.AssemblyInfoInputs.cache
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\AppUnoEjercicioPractico\AppUnoEjercicioPractico\obj\Debug\netcoreapp3.1\AppUnoEjercicioPractico.AssemblyInfo.cs
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\AppUnoEjercicioPractico\AppUnoEjercicioPractico\obj\Debug\netcoreapp3.1\AppUnoEjercicioPractico.csproj.CoreCompileInputs.cache
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\AppUnoEjercicioPractico\AppUnoEjercicioPractico\obj\Debug\netcoreapp3.1\AppUnoEjercicioPractico.dll
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\AppUnoEjercicioPractico\AppUnoEjercicioPractico\obj\Debug\netcoreapp3.1\AppUnoEjercicioPractico.pdb
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\AppUnoEjercicioPractico\AppUnoEjercicioPractico\obj\Debug\netcoreapp3.1\AppUnoEjercicioPractico.genruntimeconfig.cache
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\AppUnoEjercicioPractico\AppUnoEjercicioPractico\obj\Debug\netcoreapp3.1\AppUnoEjercicioPractico.csprojAssemblyReference.cache
