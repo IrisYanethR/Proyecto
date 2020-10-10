@@ -17,7 +17,7 @@ namespace ProyectoEquipos
 
         private void btnAtras3_Click(object sender, EventArgs e)
         {
-            Formulario4 form4 = new Formulario4();
+            Menu form4 = new Menu();
             this.Visible = false;
             form4.Visible = true;
         }

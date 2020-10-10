@@ -36,35 +36,40 @@
             // btnSuma
             // 
             this.btnSuma.BackColor = System.Drawing.Color.CadetBlue;
-            this.btnSuma.Font = new System.Drawing.Font("Goudy Old Style", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
+            this.btnSuma.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.btnSuma.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btnSuma.Location = new System.Drawing.Point(436, 151);
+            this.btnSuma.Location = new System.Drawing.Point(623, 252);
+            this.btnSuma.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnSuma.Name = "btnSuma";
-            this.btnSuma.Size = new System.Drawing.Size(195, 71);
+            this.btnSuma.Size = new System.Drawing.Size(279, 118);
             this.btnSuma.TabIndex = 0;
             this.btnSuma.Text = "Suma";
             this.btnSuma.UseVisualStyleBackColor = false;
+            this.btnSuma.Click += new System.EventHandler(this.btnSuma_Click);
             // 
             // btnPromedio
             // 
             this.btnPromedio.BackColor = System.Drawing.Color.Turquoise;
             this.btnPromedio.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnPromedio.ForeColor = System.Drawing.Color.White;
-            this.btnPromedio.Location = new System.Drawing.Point(278, 283);
+            this.btnPromedio.Location = new System.Drawing.Point(397, 472);
+            this.btnPromedio.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnPromedio.Name = "btnPromedio";
-            this.btnPromedio.Size = new System.Drawing.Size(216, 67);
+            this.btnPromedio.Size = new System.Drawing.Size(309, 112);
             this.btnPromedio.TabIndex = 1;
             this.btnPromedio.Text = "Promedio";
             this.btnPromedio.UseVisualStyleBackColor = false;
+            this.btnPromedio.Click += new System.EventHandler(this.btnPromedio_Click);
             // 
             // btnAtras
             // 
             this.btnAtras.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.btnAtras.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
             this.btnAtras.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btnAtras.Location = new System.Drawing.Point(12, 12);
+            this.btnAtras.Location = new System.Drawing.Point(17, 20);
+            this.btnAtras.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnAtras.Name = "btnAtras";
-            this.btnAtras.Size = new System.Drawing.Size(89, 49);
+            this.btnAtras.Size = new System.Drawing.Size(127, 82);
             this.btnAtras.TabIndex = 2;
             this.btnAtras.Text = "Atras";
             this.btnAtras.UseVisualStyleBackColor = false;
@@ -72,14 +77,15 @@
             // 
             // Menu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1143, 750);
             this.Controls.Add(this.btnAtras);
             this.Controls.Add(this.btnPromedio);
             this.Controls.Add(this.btnSuma);
             this.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Menu";
             this.Text = "Formulario6";
             this.ResumeLayout(false);
