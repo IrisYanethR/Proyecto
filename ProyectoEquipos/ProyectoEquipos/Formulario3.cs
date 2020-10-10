@@ -19,7 +19,9 @@ namespace ProyectoEquipos
 
         private void Atras2_Click(object sender, EventArgs e)
         {
-
+            Menu men = new Menu();
+            this.Visible = false;
+            men.Visible = true;
         }
 
         private void btnCalcular1_Click(object sender, EventArgs e)
