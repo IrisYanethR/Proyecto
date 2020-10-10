@@ -1,0 +1,15 @@
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\ProyecSuma\ProyecSuma\obj\Debug\netcoreapp3.1\ProyecSuma.csprojAssemblyReference.cache
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\ProyecSuma\ProyecSuma\obj\Debug\netcoreapp3.1\ProyecSuma.GUI.frmVista.resources
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\ProyecSuma\ProyecSuma\obj\Debug\netcoreapp3.1\ProyecSuma.csproj.GenerateResource.cache
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\ProyecSuma\ProyecSuma\obj\Debug\netcoreapp3.1\ProyecSuma.AssemblyInfoInputs.cache
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\ProyecSuma\ProyecSuma\obj\Debug\netcoreapp3.1\ProyecSuma.AssemblyInfo.cs
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\ProyecSuma\ProyecSuma\obj\Debug\netcoreapp3.1\ProyecSuma.csproj.CoreCompileInputs.cache
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\ProyecSuma\ProyecSuma\bin\Debug\netcoreapp3.1\ProyecSuma.exe
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\ProyecSuma\ProyecSuma\bin\Debug\netcoreapp3.1\ProyecSuma.deps.json
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\ProyecSuma\ProyecSuma\bin\Debug\netcoreapp3.1\ProyecSuma.runtimeconfig.json
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\ProyecSuma\ProyecSuma\bin\Debug\netcoreapp3.1\ProyecSuma.runtimeconfig.dev.json
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\ProyecSuma\ProyecSuma\bin\Debug\netcoreapp3.1\ProyecSuma.dll
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\ProyecSuma\ProyecSuma\bin\Debug\netcoreapp3.1\ProyecSuma.pdb
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\ProyecSuma\ProyecSuma\obj\Debug\netcoreapp3.1\ProyecSuma.dll
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\ProyecSuma\ProyecSuma\obj\Debug\netcoreapp3.1\ProyecSuma.pdb
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\ProyecSuma\ProyecSuma\obj\Debug\netcoreapp3.1\ProyecSuma.genruntimeconfig.cache
