@@ -6,8 +6,8 @@
       "version": "3.1.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\iris recinos\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\iris recinos\\.nuget\\packages"
+      "C:\\Users\\cb272\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cb272\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
