@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cb272\\Documents\\GitHub\\Proyecto\\ProyectoEquipos\\ProyectoEquipos\\ProyectoEquipos.csproj": {}
+    "C:\\Users\\Jose\\Documents\\GitHub\\Proyecto\\ProyectoEquipos\\ProyectoEquipos\\ProyectoEquipos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cb272\\Documents\\GitHub\\Proyecto\\ProyectoEquipos\\ProyectoEquipos\\ProyectoEquipos.csproj": {
+    "C:\\Users\\Jose\\Documents\\GitHub\\Proyecto\\ProyectoEquipos\\ProyectoEquipos\\ProyectoEquipos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cb272\\Documents\\GitHub\\Proyecto\\ProyectoEquipos\\ProyectoEquipos\\ProyectoEquipos.csproj",
+        "projectUniqueName": "C:\\Users\\Jose\\Documents\\GitHub\\Proyecto\\ProyectoEquipos\\ProyectoEquipos\\ProyectoEquipos.csproj",
         "projectName": "ProyectoEquipos",
-        "projectPath": "C:\\Users\\cb272\\Documents\\GitHub\\Proyecto\\ProyectoEquipos\\ProyectoEquipos\\ProyectoEquipos.csproj",
-        "packagesPath": "C:\\Users\\cb272\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cb272\\Documents\\GitHub\\Proyecto\\ProyectoEquipos\\ProyectoEquipos\\obj\\",
+        "projectPath": "C:\\Users\\Jose\\Documents\\GitHub\\Proyecto\\ProyectoEquipos\\ProyectoEquipos\\ProyectoEquipos.csproj",
+        "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jose\\Documents\\GitHub\\Proyecto\\ProyectoEquipos\\ProyectoEquipos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cb272\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
