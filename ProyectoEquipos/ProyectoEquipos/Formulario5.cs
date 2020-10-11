@@ -19,7 +19,7 @@ namespace ProyectoEquipos
         {
             Menu form4 = new Menu();
             this.Visible = false;
-            form4.Visible = true;//pupu
+            form4.Visible = true;//pupu x2
         }
 
         private void btnCalcular2_Click(object sender, EventArgs e)
