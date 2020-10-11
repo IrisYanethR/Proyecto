@@ -38,10 +38,9 @@
             this.btnSuma.BackColor = System.Drawing.Color.CadetBlue;
             this.btnSuma.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.btnSuma.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btnSuma.Location = new System.Drawing.Point(623, 252);
-            this.btnSuma.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnSuma.Location = new System.Drawing.Point(278, 70);
             this.btnSuma.Name = "btnSuma";
-            this.btnSuma.Size = new System.Drawing.Size(279, 118);
+            this.btnSuma.Size = new System.Drawing.Size(300, 100);
             this.btnSuma.TabIndex = 0;
             this.btnSuma.Text = "Suma";
             this.btnSuma.UseVisualStyleBackColor = false;
@@ -52,10 +51,9 @@
             this.btnPromedio.BackColor = System.Drawing.Color.Turquoise;
             this.btnPromedio.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnPromedio.ForeColor = System.Drawing.Color.White;
-            this.btnPromedio.Location = new System.Drawing.Point(397, 472);
-            this.btnPromedio.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnPromedio.Location = new System.Drawing.Point(278, 208);
             this.btnPromedio.Name = "btnPromedio";
-            this.btnPromedio.Size = new System.Drawing.Size(309, 112);
+            this.btnPromedio.Size = new System.Drawing.Size(300, 100);
             this.btnPromedio.TabIndex = 1;
             this.btnPromedio.Text = "Promedio";
             this.btnPromedio.UseVisualStyleBackColor = false;
@@ -63,13 +61,12 @@
             // 
             // btnAtras
             // 
-            this.btnAtras.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.btnAtras.BackColor = System.Drawing.SystemColors.Highlight;
             this.btnAtras.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
             this.btnAtras.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btnAtras.Location = new System.Drawing.Point(17, 20);
-            this.btnAtras.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnAtras.Location = new System.Drawing.Point(12, 12);
             this.btnAtras.Name = "btnAtras";
-            this.btnAtras.Size = new System.Drawing.Size(127, 82);
+            this.btnAtras.Size = new System.Drawing.Size(89, 49);
             this.btnAtras.TabIndex = 2;
             this.btnAtras.Text = "Atras";
             this.btnAtras.UseVisualStyleBackColor = false;
@@ -77,17 +74,17 @@
             // 
             // Menu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.ClientSize = new System.Drawing.Size(1143, 750);
+            this.BackColor = System.Drawing.SystemColors.Highlight;
+            this.ClientSize = new System.Drawing.Size(800, 421);
             this.Controls.Add(this.btnAtras);
             this.Controls.Add(this.btnPromedio);
             this.Controls.Add(this.btnSuma);
             this.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Menu";
             this.Text = "Formulario6";
+            this.Load += new System.EventHandler(this.Menu_Load);
             this.ResumeLayout(false);
 
         }

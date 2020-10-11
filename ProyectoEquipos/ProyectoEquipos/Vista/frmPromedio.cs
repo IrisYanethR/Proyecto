@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ProyectoEquipos
 {
-    public partial class Formulario3 : Form
+    public partial class frmPromedio : Form
     {
-        public Formulario3()
+        public frmPromedio()
         {
             InitializeComponent();
         }
@@ -71,6 +71,45 @@ namespace ProyectoEquipos
                 txtResultado.Text = "Reprobado-->" + r;
             }
         }
-    
+
+        private void Formulario3_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label11_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

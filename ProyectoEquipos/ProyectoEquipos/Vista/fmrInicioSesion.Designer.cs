@@ -1,6 +1,6 @@
 ﻿namespace ProyectoEquipos
 {
-    partial class Formulario2
+    partial class fmrInicioSesion
     {
         /// <summary>
         /// Required designer variable.
@@ -38,7 +38,7 @@
             // 
             // btnAtras1
             // 
-            this.btnAtras1.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.btnAtras1.BackColor = System.Drawing.SystemColors.Highlight;
             this.btnAtras1.Font = new System.Drawing.Font("Times New Roman", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.btnAtras1.ForeColor = System.Drawing.SystemColors.HighlightText;
             this.btnAtras1.Location = new System.Drawing.Point(12, 12);
@@ -52,28 +52,29 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Calisto MT", 18F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Italic | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point);
-            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label1.Location = new System.Drawing.Point(38, 153);
+            this.label1.Font = new System.Drawing.Font("Ubuntu", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(110, 153);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(87, 28);
+            this.label1.Size = new System.Drawing.Size(104, 29);
             this.label1.TabIndex = 1;
             this.label1.Text = "Usuario";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Calisto MT", 18F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Italic | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point);
-            this.label2.Location = new System.Drawing.Point(38, 247);
+            this.label2.Font = new System.Drawing.Font("Ubuntu", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label2.ForeColor = System.Drawing.Color.White;
+            this.label2.Location = new System.Drawing.Point(65, 238);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(116, 28);
+            this.label2.Size = new System.Drawing.Size(149, 29);
             this.label2.TabIndex = 2;
             this.label2.Text = "Contraseña";
             // 
             // txtUsuario
             // 
             this.txtUsuario.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.txtUsuario.Location = new System.Drawing.Point(160, 158);
+            this.txtUsuario.Location = new System.Drawing.Point(241, 162);
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(460, 23);
             this.txtUsuario.TabIndex = 3;
@@ -81,7 +82,7 @@
             // textPass
             // 
             this.textPass.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textPass.Location = new System.Drawing.Point(160, 247);
+            this.textPass.Location = new System.Drawing.Point(241, 247);
             this.textPass.Name = "textPass";
             this.textPass.Size = new System.Drawing.Size(460, 23);
             this.textPass.TabIndex = 4;
@@ -103,8 +104,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.ClientSize = new System.Drawing.Size(793, 488);
+            this.BackColor = System.Drawing.SystemColors.Highlight;
+            this.ClientSize = new System.Drawing.Size(884, 561);
             this.Controls.Add(this.btnIniciarSecion);
             this.Controls.Add(this.textPass);
             this.Controls.Add(this.txtUsuario);

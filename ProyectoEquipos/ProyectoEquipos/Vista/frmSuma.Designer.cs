@@ -1,6 +1,6 @@
 ﻿namespace ProyectoEquipos
 {
-    partial class Formulario5
+    partial class frmSuma
     {
         /// <summary>
         /// Required designer variable.

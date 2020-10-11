@@ -1,6 +1,6 @@
 ﻿namespace ProyectoEquipos
 {
-    partial class Form1
+    partial class frmBienvenida
     {
         /// <summary>
         ///  Required designer variable.
@@ -35,7 +35,7 @@
             // LabBienvenidos
             // 
             this.LabBienvenidos.AutoSize = true;
-            this.LabBienvenidos.BackColor = System.Drawing.Color.SteelBlue;
+            this.LabBienvenidos.BackColor = System.Drawing.SystemColors.Highlight;
             this.LabBienvenidos.Font = new System.Drawing.Font("Matura MT Script Capitals", 36F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.LabBienvenidos.ForeColor = System.Drawing.Color.SeaShell;
             this.LabBienvenidos.Location = new System.Drawing.Point(280, 176);
@@ -43,6 +43,7 @@
             this.LabBienvenidos.Size = new System.Drawing.Size(303, 64);
             this.LabBienvenidos.TabIndex = 0;
             this.LabBienvenidos.Text = "Bienvenidos";
+            this.LabBienvenidos.Click += new System.EventHandler(this.LabBienvenidos_Click);
             // 
             // btnIniciar
             // 
@@ -61,8 +62,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.InactiveCaption;
-            this.ClientSize = new System.Drawing.Size(854, 450);
+            this.BackColor = System.Drawing.SystemColors.Highlight;
+            this.ClientSize = new System.Drawing.Size(884, 561);
             this.Controls.Add(this.btnIniciar);
             this.Controls.Add(this.LabBienvenidos);
             this.Name = "Form1";

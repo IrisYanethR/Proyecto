@@ -8,16 +8,16 @@ using System.Windows.Forms;
 
 namespace ProyectoEquipos
 {
-    public partial class Formulario2 : Form
+    public partial class fmrInicioSesion : Form
     {
-        public Formulario2()
+        public fmrInicioSesion()
         {
             InitializeComponent();
         }
 
         private void btnAtras1_Click(object sender, EventArgs e)
         {
-            Form1 form = new Form1();
+            frmBienvenida form = new frmBienvenida();
             this.Visible = false;
             form.Visible = true;
         }

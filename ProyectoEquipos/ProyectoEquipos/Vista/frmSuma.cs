@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace ProyectoEquipos
 {
-    public partial class Formulario5 : Form
+    public partial class frmSuma : Form
     {
-        public Formulario5()
+        public frmSuma()
         {
             InitializeComponent();
         }

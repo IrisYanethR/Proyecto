@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ProyectoEquipos
 {
-    public partial class Form1 : Form
+    public partial class frmBienvenida : Form
     {
-        public Form1()
+        public frmBienvenida()
         {
             InitializeComponent();
         }
@@ -22,9 +22,14 @@ namespace ProyectoEquipos
 
 
 
-            Formulario2 form2 = new Formulario2();
+            fmrInicioSesion form2 = new fmrInicioSesion();
             this.Visible = false;
             form2.Visible = true;
+        }
+
+        private void LabBienvenidos_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
