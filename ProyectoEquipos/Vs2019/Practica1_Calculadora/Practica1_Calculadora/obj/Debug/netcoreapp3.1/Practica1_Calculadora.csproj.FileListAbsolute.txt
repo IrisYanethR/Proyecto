@@ -1,0 +1,15 @@
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\Practica1_Calculadora\Practica1_Calculadora\bin\Debug\netcoreapp3.1\Practica1_Calculadora.exe
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\Practica1_Calculadora\Practica1_Calculadora\bin\Debug\netcoreapp3.1\Practica1_Calculadora.deps.json
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\Practica1_Calculadora\Practica1_Calculadora\bin\Debug\netcoreapp3.1\Practica1_Calculadora.runtimeconfig.json
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\Practica1_Calculadora\Practica1_Calculadora\bin\Debug\netcoreapp3.1\Practica1_Calculadora.runtimeconfig.dev.json
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\Practica1_Calculadora\Practica1_Calculadora\bin\Debug\netcoreapp3.1\Practica1_Calculadora.dll
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\Practica1_Calculadora\Practica1_Calculadora\bin\Debug\netcoreapp3.1\Practica1_Calculadora.pdb
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\Practica1_Calculadora\Practica1_Calculadora\obj\Debug\netcoreapp3.1\Practica1_Calculadora.csprojAssemblyReference.cache
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\Practica1_Calculadora\Practica1_Calculadora\obj\Debug\netcoreapp3.1\Practica1_Calculadora.Form1.resources
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\Practica1_Calculadora\Practica1_Calculadora\obj\Debug\netcoreapp3.1\Practica1_Calculadora.csproj.GenerateResource.cache
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\Practica1_Calculadora\Practica1_Calculadora\obj\Debug\netcoreapp3.1\Practica1_Calculadora.AssemblyInfoInputs.cache
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\Practica1_Calculadora\Practica1_Calculadora\obj\Debug\netcoreapp3.1\Practica1_Calculadora.AssemblyInfo.cs
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\Practica1_Calculadora\Practica1_Calculadora\obj\Debug\netcoreapp3.1\Practica1_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\Practica1_Calculadora\Practica1_Calculadora\obj\Debug\netcoreapp3.1\Practica1_Calculadora.dll
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\Practica1_Calculadora\Practica1_Calculadora\obj\Debug\netcoreapp3.1\Practica1_Calculadora.pdb
+C:\Users\kembe\OneDrive\Escritorio\Vs2019\Practica1_Calculadora\Practica1_Calculadora\obj\Debug\netcoreapp3.1\Practica1_Calculadora.genruntimeconfig.cache
