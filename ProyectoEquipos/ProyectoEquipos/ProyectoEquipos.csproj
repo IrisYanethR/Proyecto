@@ -21,4 +21,9 @@
     </EmbeddedResource>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DOMINIO\" />
+    <Folder Include="HOLA\" />
+  </ItemGroup>
+
 </Project>
